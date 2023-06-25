@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="img/waving.gif">, Ajayan</h1>
+<h1 align="center">Hi <img width="35" src="img/waving.gif">,i'am Ajayan</h1>
 <h4 align="center">A software enthusiast with 3 years of experience in developing robust code for high-volume business products. Skilled in Web developing  and demonstrated history of working in the computer software industry.</h4>
 </div>
 
