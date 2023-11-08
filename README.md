@@ -9,7 +9,7 @@
 
 -----
 
-- 👨‍💻 Python - Django | Go programming langugae.
+- 👨‍💻 Go | Python | Docker | git | postgres .
 - 📚 Follow-up on the most recent changes in web development. 😅
 - 💪🏼 Future Goals: Learn more technologies - Build an enterprise-level open source product.
 - ⚡ Fun fact: Very happy to find bugs and Learn more technologies
